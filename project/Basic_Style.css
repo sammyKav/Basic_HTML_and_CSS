@@ -19,7 +19,7 @@ h1 {
 /*Select all Squares in the array*/
 
 .container .squares:nth-child(-n+4){
-    background-image:url("../images/Icons/icons.png");
+    background-image:url("./images/Icons/icons.png");
     color:#fff;
     float:left;
     width:100px;
@@ -60,7 +60,7 @@ h1 {
 /*Hover effects translate & transform effects*/
 
 .container .squares:nth-child(-n+4):hover{
-    background-image:url(../images/icons/icons2.png);
+    background-image:url(./images/icons/icons2.png);
     transform:scale(.5);
     animation-name:race;
     animation-duration: 2.5s;
