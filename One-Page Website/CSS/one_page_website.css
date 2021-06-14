@@ -1,0 +1,45 @@
+
+
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:10px;
+}
+
+/* Updating inputs on form*/
+
+input[type="text"] {
+
+    width: 100px;
+    padding:10px 30px 10px 30px;
+    margin: 0px auto;
+    border-top: 3px solid #007dfa;
+    border-right:4px solid #007dfa;
+    border-bottom: 3px solid #007dfa;
+    border-left: 4px solid #007dfa;
+    border-radius: 9%;
+}
+
+/*email*/
+
+input[type="email"] {
+
+    width: 115px;
+    padding:10px 30px 10px 30px;
+    margin: 3px auto;
+    border-top: 3px solid #007dfa;
+    border-right:4px solid #007dfa;
+    border-bottom: 3px solid #007dfa;
+    border-left: 4px solid #007dfa;
+    border-radius: 9%;
+}
+
+/*submit button*/
+
+input[type="submit"]{
+
+    margin-top:5px;
+    width:100px;
+    background-color: aqua;
+    border-radius: 9%;
+
+}
